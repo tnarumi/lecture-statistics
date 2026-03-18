@@ -8,7 +8,10 @@
 - 第1回：ガイダンスとPython  
   https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/01_introduction.ipynb
 
-今後の回のノートブックは、授業の進行にあわせて順次追加します。
+- 第2回：Pythonによるデータ分析1：記述統計
+  https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/02_descriptiveStat.ipynb
+
+ノートブックは、授業の進行にあわせて順次追加します。
 
 ## 最初に必ず行うこと（毎回）
 
