@@ -5,11 +5,11 @@
 
 ## 授業ノートブック一覧
 
-- 第1回：ガイダンスとPython  
+- 第1回：Pythonの導入  
   https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/01_introduction.ipynb
 
-- 第2回：Pythonによるデータ分析1：記述統計
-  https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/02_descriptiveStat.ipynb
+- 第2回：Pythonによるデータ分析
+  https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/02_basicStat.ipynb
 
 ノートブックは、授業の進行にあわせて順次追加します。
 
