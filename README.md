@@ -13,6 +13,10 @@
 
   https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/02_basicStat.ipynb
 
+3. 国内総生産（GDP） 
+
+  https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/03_gdp.ipynb
+
 ノートブックは、授業の進行にあわせて順次追加します。
 
 ## 最初に必ず行うこと（毎回）
