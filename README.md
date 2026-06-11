@@ -17,6 +17,11 @@
 
   https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/03_gdp.ipynb
 
+4. 物価指数 
+
+  https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/04_price_index.ipynb
+
+
 ノートブックは、授業の進行にあわせて順次追加します。
 
 ## 最初に必ず行うこと（毎回）
