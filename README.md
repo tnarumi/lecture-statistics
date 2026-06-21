@@ -21,6 +21,9 @@
 
   https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/04_price_index.ipynb
 
+5. 労働統計
+
+  https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/05_labor_statistics.ipynb
 
 ノートブックは、授業の進行にあわせて順次追加します。
 
