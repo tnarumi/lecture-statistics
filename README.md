@@ -25,7 +25,15 @@
 
   https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/05_labor_statistics.ipynb
 
-ノートブックは、授業の進行にあわせて順次追加します。
+6. 人口統計
+
+  準備中
+
+
+## 自由分析課題のテンプレート
+
+  https://colab.research.google.com/github/tnarumi/lecture-statistics/blob/main/notebooks/2026_stat2.ipynb
+
 
 ## 最初に必ず行うこと（毎回）
 
