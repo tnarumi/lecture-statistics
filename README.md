@@ -80,6 +80,13 @@ df = pd.read_csv(csv_file, encoding="utf-8-sig")
 `Q. GDP成長率やインフレ率の最初の行がNaNになります`  
 `A. shift()やpct_change()は前の年、前の月、前年同月などと比べる計算なので、比較相手がない最初の行はNaNになります。計算ミスではありません。`
 
+`Q. グラフに日本語が表示されません`  
+`A. 日本語を使うには以下のコードを，グラフを描画するコードブロックの先頭に追加してください。`
+```python
+!pip install japanize-matplotlib
+import japanize_matplotlib
+```
+
 `Q. 日付を使ったグラフでエラーが出ます`  
 `A. date列が文字列のままだと扱いにくいことがあります。物価指数や労働統計のノートブックと同じように、pd.to_datetime(df["date"])で日付型に変換してください。`
 
